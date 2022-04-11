@@ -51,4 +51,4 @@ Sup is an equal opportunity employer. We are committed to creating an inclusive 
 
 ## How to reach us
 
-**Please email artdirector@sup.xyz with a link to your portfolio.** We're a new company. It may take a little bit of time to get back to you.
+**Please email artdirector@sup.xyz with a link to your portfolio.**
