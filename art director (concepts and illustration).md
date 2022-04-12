@@ -25,8 +25,8 @@ Since we are a brand new company, there is an expectation in our early days that
 ## What we're looking for
 
 - **Please note that is not a design role. Strong experience as an illustrator or concept artist is required.**
-- 8+ years of experience as an illustrator, art director, or similar creative roles
-- 4+ years of experience leading teams from strategy through execution
+- 5+ years of experience as an illustrator, art director, or similar creative roles
+- 2+ years of experience leading teams from strategy through execution
 - Strong understanding of concept-to-production pipelines and technical ability or experience, for example:
   - 2D art to animation pipeline for cartoon shows
   - 2D to 3D art pipeline for hard surface and organic objects for gaming or relevant media
