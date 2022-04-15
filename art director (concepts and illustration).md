@@ -2,7 +2,7 @@
 Art Director (Concepts & Illustration)
 
 ### Salary range
-$250K to 325K + equity
+$300K to $400K + equity
 
 ### Location
 NYC or remote
