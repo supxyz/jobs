@@ -18,11 +18,13 @@ Sup was co-founded by Dom Hofmann, the founder of Vine (as well as Blitmap and L
 
 We're looking for a designer who is interested in building polished, novel, fun interfaces that will serve as the digital surface for Sup’s many worlds and communities.
 
-You'll primarily focus on UX/UI, but your visual design muscles should be strong. As a member of a small company and an even smaller design team, the scope of your influence will only be limited by your ambition. There are no icon designers, accessibility specialists, or design system managers here. For now, you’ll wear all of those hats and more.  Your days will be spent setting the bar for product design at Sup, from wireframing through iteration to launch. Together we’ll create a holistic vision for the future of the entire Sup universe.
+You'll primarily focus on UX/UI, but your visual design muscles should be strong. As a member of a small company and an even smaller design team, the scope of your influence will only be limited by your ambition. There are no icon designers, accessibility specialists, or design system managers here. For now, you’ll wear all of those hats and more.
+
+Your days will be spent setting the bar for product design at Sup, from wireframing through iteration to launch. Together we’ll create a holistic vision for the future of the entire Sup universe.
 
 ## What we're looking for
 
-- 4+ years of experience as a product designer with fluency across web, mobile and gestural interaction design
+- 4+ years of experience as a product designer with fluency across web, mobile, and gestural interaction design
 - Meticulous attention to detail
 - Experience building in-depth, communicative prototypes
 - Strong understanding of design system best practices
